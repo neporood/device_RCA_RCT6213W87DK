@@ -1,0 +1,14 @@
+# mount point	fstype   	 device    	[device2]
+
+/nvram		emmc		/dev/nvram       
+/logo		emmc		/dev/logo       
+/uboot		emmc		/dev/uboot       
+#/emmc		vfat		/dev/block/mmcblk0p8     
+
+/boot		emmc		/dev/bootimg    
+/recovery	emmc		/dev/recovery    
+/system		ext4		/dev/block/mmcblk0p5     
+/cache		ext4		/dev/block/mmcblk0p6     
+/data		ext4		/dev/block/mmcblk0p7
+/external_sd	vfat	/dev/block/mmcblk1p1	/dev/block/mmcblk1
+
