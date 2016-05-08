@@ -9,6 +9,9 @@ Device tree for building TWRP using CyanogenMod 12.1
         
         # repo sync
         
-        # source build/envsetup.sh
+        # . build/envsetup.sh
+
+        # lunch cm_RCT6213W87DK-eng
+
+        # mka recoveryimage
         
-        # brunch cm_RCT6213W87DK-eng
