@@ -34,7 +34,6 @@ TARGET_RECOVERY_FSTAB := device/Alco/RCT6213W87DK/rootdir/recovery.fstab
 
 # TWRP
 TW_THEME := landscape_hdpi
-TW_NO_REBOOT_RECOVERY := true
 TW_NO_USB_STORAGE := true
 TW_EXCLUDE_SUPERSU := true
 TW_EXCLUDE_MTP := true
