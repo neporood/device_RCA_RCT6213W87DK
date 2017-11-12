@@ -20,6 +20,5 @@
 # In particular, you can add lunch options with the add_lunch_combo
 # function: add_lunch_combo generic-eng
 
-add_lunch_combo cm_RCT6213W87DK
 add_lunch_combo cm_RCT6213W87DK-eng
-add_lunch_combo cm_RCT6213W87DK-userdebug
+
